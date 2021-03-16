@@ -1,4 +1,4 @@
-% Matrix Multiplication performance
+# Matrix Multiplication performance
 
 
 | method/size            | 100        | 1000      | 10000      |
