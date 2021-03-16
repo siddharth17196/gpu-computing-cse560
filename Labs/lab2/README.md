@@ -1,4 +1,6 @@
-# Matrix Multiplication performance
+# Lab2
+
+Comparison of Matrix Multiplication on CPU, GPU and using shared memory on GPU
 
 
 | method/size            | 100        | 1000      | 10000      |
@@ -8,10 +10,10 @@
 | GPU  (shared memory)   | 0.000018   | 0.00067   | 0.699      |
 
 
-** Time mentioned is in seconds
+*\*\* Time mentioned is in seconds*
 
 
-### The speedup graph for the with/without shared memory implementations is shown below:
+The speedup graph for the with/without shared memory implementations is shown below:
 
 
 ![Speedup Graph](./graph.png)
