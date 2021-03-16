@@ -18,5 +18,12 @@ and measuring some metrics to understand memory coalescing.
 | Structure of Arrays      | 16    | 40    | 100%  | 100%  | 64    | 32    |
 
 
+**Commands:**
+```cuda
+make
+nvprof -m all ./aos.out
+nvprof -m all ./soa.out
+```
+
 
 **Length of array was 10,000 in all cases.
