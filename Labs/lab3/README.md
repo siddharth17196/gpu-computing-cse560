@@ -1,5 +1,8 @@
 # Lab 3
 
+Comparing the time for calculating the transpose of square matrices of size 100,
+1000, 10000 on cpu, gpu and using shared memory on gpu.
+
 **Kernel timings:**
 
 |       | CPU   | GPU   | GPU (shared memory) |
