@@ -5,6 +5,7 @@
 - [Lab4](./Labs/lab4) - Vector Addition using Structure of Arrays(SoA) and
 Array of Structures(AoS) and measuring some metrics to understand memory
 coalescing.
+- [Lab5](./Labs/lab5) - Calculate histogram using numba (integration with python)
 
 
 # Assignments
