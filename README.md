@@ -9,5 +9,5 @@ coalescing.
 
 
 # Assignments
-- Adaptive Histogram Equalisation
-- Signed Distance Transform
+- [Assignment1](./Assignments/Assignment1) Adaptive Histogram Equalisation
+- [Assignment2](./Assignments/Assignment2) Signed Distance Transform
