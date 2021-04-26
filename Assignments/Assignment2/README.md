@@ -1,6 +1,6 @@
 # Signed Distance Transform on GPU
 
->The implementation details and timing comparisons for CPU vs GPU are given in the report.
+>The implementation details and timing comparisons for CPU vs GPU is given in the report.
 
 ### Initial Image:
 
