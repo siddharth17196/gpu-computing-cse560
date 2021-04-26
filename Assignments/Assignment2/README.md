@@ -9,5 +9,3 @@
 ### Image after SDT:
 
 ![earth_ahe](images/sdt_GPU.png)
-
->Other Implementation details and Timing comparisons for CPU vs GPU are given in the report.
