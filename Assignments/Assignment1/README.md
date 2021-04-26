@@ -1,7 +1,9 @@
 # Adaptive Histogram Equalisation on GPU
 
-Initial Image
-![Earth]("images/earth.png")
+Initial Image:
 
-Image after AHE
-![earth_ahe]("images/out_GPU.png")
+![Earth](images/earth.png)
+
+Image after AHE:
+
+![earth_ahe](images/out_GPU.png)
