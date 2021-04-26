@@ -4,4 +4,5 @@
 tmp/
 *.out
 *.o
+.vscode/
 build/
